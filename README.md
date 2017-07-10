@@ -17,7 +17,7 @@
   3. Finish!
 
 
-### Usage (Linux)
+### Usage (MacOS)
 
   1. Give permission to run the script in your terminal
 
